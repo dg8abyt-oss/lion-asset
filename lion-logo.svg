@@ -1,0 +1,16 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+<title>Green Geometric Lion Icon</title>
+<g clip-path="url(#clip0_lion)">
+<path d="M256 32L448 128V384L256 480L64 384V128L256 32Z" fill="#1B5E20"/>
+<path d="M256 64L416 144V368L256 448L96 368V144L256 64Z" fill="#2E7D32"/>
+<path d="M256 96V416L128 352V160L256 96Z" fill="#43A047"/>
+<path d="M256 192V320L160 272V240L256 192Z" fill="#66BB6A"/>
+<path d="M192 208L224 224V256L192 240V208Z" fill="#1B5E20"/>
+<path d="M256 96L384 160V352L256 416V96Z" fill="#388E3C"/>
+</g>
+<defs>
+<clipPath id="clip0_lion">
+<rect width="512" height="512" fill="white"/>
+</clipPath>
+</defs>
+</svg>
